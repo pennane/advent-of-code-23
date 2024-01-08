@@ -1,0 +1,12 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  ramda:
+    specifier: ^0.29.1
+    version: 0.29.1
+
+packages:
+
+  /ramda@0.29.1:
+    resolution: {integrity: sha512-OfxIeWzd4xdUNxlWhgFazxsA/nl3mS4/jGZI5n00uWOoSSFRhC1b6gl6xvmzUamgmqELraWp0J/qqVlXYPDPyA==}
+    dev: false
